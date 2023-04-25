@@ -32,5 +32,16 @@
             "gender": "male",
             "id": 5
         }
+    ],
+    "cars": [
+        {
+            "brand": "tata",
+            "type": "manual",
+            "year": 2019,
+            "kms": 5000,
+            "Description": "well",
+            "Price": 250000,
+            "id": 1
+        }
     ]
 }
